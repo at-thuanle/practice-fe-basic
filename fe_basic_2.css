@@ -1,0 +1,11 @@
+.under-title {
+  color: grey;
+  opacity: 0.7;
+  /* filter: blur(1px); */
+}
+
+.horizon-groupname,
+.horizon-groupinfo,
+.horizon-groupselect {
+  display: inline-block;
+}
