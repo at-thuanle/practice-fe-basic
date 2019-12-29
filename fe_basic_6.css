@@ -45,13 +45,13 @@
 }
 
 .checked {
-	background-color: red;
-	opacity: 0.8;
+  background-color: red;
+  opacity: 0.8;
 }
 
 .our-blogs {
-	display: block;
-	width: 150px;
-	border-bottom: 1px solid grey;
-	opacity: 0.8;
+  display: block;
+  width: 150px;
+  border-bottom: 1px solid grey;
+  opacity: 0.8;
 }
